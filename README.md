@@ -8,4 +8,4 @@ This is an example of how you can set a background image using HTML and CSS insi
 
 </div>
 
-![](resources/rain1.webp)
+![](./resources/rain1.webp)
