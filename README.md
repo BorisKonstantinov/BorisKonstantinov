@@ -84,28 +84,28 @@
       /> 
     </a> 
   </p>
-
+<!--
 <p>
   <img align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=boriskonstantinov&show_icons=true&theme=tokyonight&title_color=f9f06b&text_color=ffffff&locale=en&layout=compact" 
     alt="boriskonstantinov" 
     />
   </p>
-
+--><!--
 <p>&nbsp;
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=boriskonstantinov&show_icons=true&theme=tokyonight&title_color=62a0ea&text_color=ffffff&locale=en" 
     alt="boriskonstantinov" 
     />
   </p>
-
+--><!--
 <p>
   <img align="center" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=boriskonstantinov&theme=dark" 
     alt="boriskonstantinov" 
     />
   </p>
-
+-->
 
 
 
