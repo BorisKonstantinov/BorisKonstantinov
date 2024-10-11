@@ -17,4 +17,4 @@ This is an example of how you can set a background image using HTML and CSS insi
   </h1>
 </div>
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20240503171539/GeeksforGeeksInterviewSeriesPracticeToCrackCodingRounds.gif)
+![](resources/rain1.webp)
